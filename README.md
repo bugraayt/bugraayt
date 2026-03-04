@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- Writing Bash scripts to automate tasks  <br>- Practicing Linux commands and system administration <br><br>👯 I’m looking to collaborate on  <br>- DevOps and automation projects  <br>- Open-source contributions  <br><br>🌱 I’m currently learning  <br>- Python  <br>- Docker  <br>- Cloud Computing  <br>- CI/CD  <br>- DevOps tools  <br><br>🎯 Career Goal  <br>Aspiring DevOps Engineer actively looking for internship opportunities to gain hands-on experience in automation, cloud infrastructure, and CI/CD pipelines.
+🔭 I’m currently working on  <br>- Writing Bash scripts to automate tasks  <br>- Practicing Linux commands and system administration <br><br>👯 I’m looking to collaborate on  <br>- DevOps and automation projects  <br>- Open-source contributions  <br><br>🌱 I’m currently learning  <br>- Python, Docker, Cloud Computing, CI/CD, DevOps tools  <br><br>🎯 Current Goal  <br>Aspiring DevOps Engineer actively looking for internship opportunities to gain hands-on experience in automation, cloud infrastructure, and CI/CD pipelines.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bugraayt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
