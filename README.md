@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- Writing Bash scripts to automate tasks  <br>- Practicing Linux commands and system administration <br><br>👯 I’m looking to collaborate on  <br>- DevOps and automation projects  <br>- Open-source contributions  <br>
+🔭 I’m currently working on  <br>- Writing Bash scripts to automate tasks  <br>- Practicing Linux commands and system administration <br><br>👯 I’m looking to collaborate on - Open-source contributions  <br>
 
 
 ## 🌐 Socials:
