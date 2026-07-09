@@ -16,7 +16,7 @@ Currently learning:
 **Languages:** Python • Bash • SQL
 **Systems:** Linux • Git • Cloud Fundamentals
 **Security:** IAM • JML • Access Reviews • SoD
-**Data:** PostgreSQL • MySQL • Power BI • REST APIs
+**Data:** PostgreSQL • MySQL • Power BI • Excel • REST APIs
 
 ## 🚀 Projects
 
