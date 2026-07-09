@@ -13,10 +13,10 @@ Currently learning:
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • Bash • SQL
-**Systems:** Linux • Git • Cloud Fundamentals
-**Security:** IAM • JML • Access Reviews • SoD
-**Data:** PostgreSQL • MySQL • Power BI • Excel • REST APIs
+* **Languages:** Python • Bash • SQL
+* **Systems:** Linux • Git • Cloud Fundamentals
+* **Security:** IAM • JML • Access Reviews • SoD
+* **Data:** PostgreSQL • MySQL • Power BI • REST APIs
 
 ## 🚀 Projects
 
@@ -31,4 +31,3 @@ Created automated server checks and disk monitoring scripts.
 ## 🌐 Connect
 
 [LinkedIn](https://linkedin.com/in/bugra-ayten) • [Email](mailto:bugraayten@outlook.com)
-
