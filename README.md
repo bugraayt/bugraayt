@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bugra
 
-🎓 IT Student | 🔐 IAM & Cybersecurity Enthusiast | ⚙️ Automation Developer
+🎓 IT Student | 🔐 IAM & Cybersecurity Enthusiast & Compliance | ⚙️ Automation Developer
 
 I'm an Information Technology student focused on **Identity & Access Management, cybersecurity, Linux systems, and automation**.
 
