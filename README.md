@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bugra
+# 👋 Hi, I'm Buğra
 
 🎓 IT Student | 🔐 IAM & Cybersecurity Enthusiast & Compliance | ⚙️ Automation Developer
 
